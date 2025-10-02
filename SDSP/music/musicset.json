@@ -10,7 +10,12 @@
           { "file": "music/bathwater_submerged_mix.ogg", "volume": 40 },
           { "file": "music/a_common_atrocity.ogg", "volume": 60 },
           { "file": "music/Dreaming with Great Old One (Arkham Radio Podcast).mp3", "volume": 20 },
-          { "file": "music/The Plague.mp3", "volume": 20 }
+          { "file": "music/79395660.mp3", "volume": 20 },
+          { "file": "music/kevin-macleod-antechamber.mp3", "volume": 15 },
+          { "file": "music/kevin-macleod-breath.mp3", "volume": 10 },
+          { "file": "music/kevin-macleod-horizon.mp3", "volume": 10 },
+          { "file": "music/The Plague.mp3", "volume": 20 },
+          { "file": "music/3779948842.mp3", "volume": 20 }
         ]
       }
     ]
